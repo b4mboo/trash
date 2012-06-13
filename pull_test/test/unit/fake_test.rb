@@ -3,7 +3,7 @@ require 'test_helper'
 class FooTest < ActiveSupport::TestCase
 
   test "foo" do
-    assert_not_nil 3
+    assert_not_nil nil
   end
 
 end
