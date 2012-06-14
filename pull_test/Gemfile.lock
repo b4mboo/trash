@@ -76,7 +76,7 @@ GEM
       hashie (~> 1.2)
       multi_json (~> 1.3)
     polyglot (0.3.3)
-    pullermann (1.0.0)
+    pullermann (1.0.1)
       octokit
       rspec
     rack (1.4.1)
@@ -139,7 +139,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   debugger
   jquery-rails
-  pullermann
+  pullermann (= 1.0.1)
   rails (= 3.2.5)
   sass-rails (~> 3.2.3)
   sqlite3
