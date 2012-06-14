@@ -76,7 +76,7 @@ GEM
       hashie (~> 1.2)
       multi_json (~> 1.3)
     polyglot (0.3.3)
-    pullermann (0.0.1)
+    pullermann (1.0.0)
       octokit
       rspec
     rack (1.4.1)
@@ -108,10 +108,10 @@ GEM
       rspec-core (~> 2.10.0)
       rspec-expectations (~> 2.10.0)
       rspec-mocks (~> 2.10.0)
-    rspec-core (2.10.0)
+    rspec-core (2.10.1)
     rspec-expectations (2.10.0)
       diff-lcs (~> 1.1.3)
-    rspec-mocks (2.10.0)
+    rspec-mocks (2.10.1)
     sass (3.1.19)
     sass-rails (3.2.5)
       railties (~> 3.2.0)
