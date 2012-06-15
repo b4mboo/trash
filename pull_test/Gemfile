@@ -36,4 +36,4 @@ gem 'jquery-rails'
 
 # To use debugger
 gem 'debugger'
-gem 'pullermann', '= 1.0.2'
+gem 'pullermann'
