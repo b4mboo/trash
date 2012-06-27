@@ -1,0 +1,3 @@
+[submodule "sub_trash"]
+	path = sub_trash
+	url = git@github.com:b4mboo/sub_trash.git
