@@ -7,7 +7,7 @@ class FooTest < ActiveSupport::TestCase
   end
 
   test "foo" do
-    assert_equal 'hello!', @foo.bar 
+    assert_equal 'hello!', @foo.baz 
   end
 
 end

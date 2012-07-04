@@ -7,7 +7,7 @@ class FooTest < ActiveSupport::TestCase
   end
 
   test 'good day to you, sir' do
-    assert_equal 'I said hello!', "I said #{@foo.bar}" 
+    assert_equal 'I said hello!', "I said #{@foo.baz}" 
   end
 
 end
