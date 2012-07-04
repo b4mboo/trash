@@ -1,9 +1,9 @@
 class Foo
 
-  attr_accessor :bar
+  attr_accessor :baz
 
   def initialize
-    self.bar = 'hello!'
+    self.baz = 'hello!'
   end
 
 end
