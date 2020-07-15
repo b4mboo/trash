@@ -1,3 +1,6 @@
 [submodule "sub_trash"]
 	path = sub_trash
 	url = git@github.com:b4mboo/prophet.git
+[submodule "gitlab-runner"]
+	path = gitlab-runner
+	url = https://gitlab.com/gitlab-org/gitlab-runner.git
