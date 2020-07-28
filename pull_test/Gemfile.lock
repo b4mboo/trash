@@ -80,7 +80,7 @@ GEM
     pullermann (1.1.1)
       octokit
       rspec
-    rack (1.4.1)
+    rack (1.4.7)
     rack-cache (1.2)
       rack (>= 0.4)
     rack-ssl (1.3.2)
