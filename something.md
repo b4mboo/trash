@@ -1,4 +1,5 @@
 # Title
 
 Content goes here...
-EOF!
+Let's create a merge conflict.
+EOF! Really?
