@@ -1,4 +1,5 @@
 # Title
 
 Content goes here...
-EOF!
+This should conflict.
+EOF! Yep!
